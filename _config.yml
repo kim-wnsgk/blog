@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Kim Junha's blog
+description: Records of becoming a developer.
+url: https://kim-wnsgk.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Kim Junha
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/kim-wnsgk
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Kim Junha
+  url: https://github.com/kim-wnsgk/
+  email: kim_jh6859@naver.com
